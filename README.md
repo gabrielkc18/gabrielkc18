@@ -126,7 +126,7 @@ Repositorio de prácticas y ejercicios relacionados con métodos numéricos y pr
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielkc18&layout=compact&theme=github_dark&hide_border=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=gabrielkc18&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=gabrielkc18&theme=github-dark-blue&hide_border=true)
 
 ---
 
