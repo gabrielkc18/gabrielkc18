@@ -122,9 +122,9 @@ Repositorio de prácticas y ejercicios relacionados con métodos numéricos y pr
 
 ## 📊 GitHub
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielkc18&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)](https://github.com/gabrielkc18)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielkc18&show_icons=true&theme=github_dark&hide_border=true)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielkc18&layout=compact&theme=github_dark&hide_border=true)](https://github.com/gabrielkc18)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielkc18&layout=compact&theme=github_dark&hide_border=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=gabrielkc18&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
